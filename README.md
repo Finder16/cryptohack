@@ -1,2 +1,2 @@
 # cryptohack
-cryptohack라업
+cryptohack라업(코드만)
